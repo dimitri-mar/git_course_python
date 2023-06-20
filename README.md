@@ -10,7 +10,9 @@ We want to interact in teams.
 - Try to merge the first one in main branch.
 - Try to merge the second one in main branch.
 
-(better if the merge is done by the other person)
+(better if the merge is done by the other person, who can review the code before merging)
 
-How would you process to create a new file that handles the name of the user and 
-provides the function that is used both to goodbye and hello?
+
+To create a new file that handles the user's name and can be used by both goodbye.py and hello.py, what steps would you take?
+
+
